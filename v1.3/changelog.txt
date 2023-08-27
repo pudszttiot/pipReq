@@ -1,0 +1,22 @@
+Changelog for pipReq
+
+Version 1.2 -> Version 1.3
+
+1. Added Features and Enhancements:
+   - Updated program theme to "arc" for a modern look.
+   - Reduced the size of the program window to 200x300 pixels.
+   - Introduced a new area to display command results.
+   - Created a separate window to display command outputs with a background image.
+   - Added handling for clearing the output area when the output window is closed.
+
+2. Code Changes:
+   - Imported the 'os' module to interact with the operating system.
+   - Modified the positioning of the watermark label.
+   - Improved error handling and command output display.
+
+3. Miscellaneous:
+   - Updated icon and background image paths for consistency.
+
+These changes enhance the user experience, provide better command output visibility, and give the program a more modern appearance.
+
+(Note: Make sure to update icon and image paths as needed for your system.)
