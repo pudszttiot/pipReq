@@ -56,4 +56,4 @@ ttkwidgets==0.13.0
 urllib3==1.26.16
 websockets==11.0.3
 yarg==0.1.9
-yt-dlp==2023.6.22
+yt-dlp==2023.11.14
