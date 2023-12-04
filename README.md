@@ -8,7 +8,7 @@ pipReq is a Python application designed to effortlessly perform various essentia
 
 ## Screenshots
 
-<img src="https://i.ibb.co/RBjnLT8/Untitled.png" alt="Untitled" border="0">
+<img src="https://i.ibb.co/0JG0FRm/Screenshot-1.png" alt="Screenshot-1" border="0">
 
 ## Table of Contents
 
