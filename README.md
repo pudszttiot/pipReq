@@ -6,7 +6,9 @@
 
 pipReq is a Python application designed to effortlessly perform various essential operations related to Python package management, such as generating 'requirements.txt' files, checking for installed package issues, updating packages and installing from 'requirements.txt'.
 
-![Screenshot](screenshot.png)
+## Screenshots
+
+![Screenshot](https://i.ibb.co/X2jsjG0/v1-1-v1-3-v1-4.png)
 
 ## Table of Contents
 
