@@ -32,7 +32,7 @@ Provide examples and guidelines on how to use your project.
      - Run pipreqs
      - Run pip check
      - Run pur (package updater)
-     - Run pip freeze
+     - Run pip freeze.
      - Install requirements.txt
 
 - **Functionality:**
