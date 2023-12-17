@@ -28,16 +28,15 @@ Provide examples and guidelines on how to use your project.
 
 ## Features
 
-- Custom buttons for running various pip-related commands:
-     - Run pipreqs
-     - Run pip check
-     - Run pur (package updater)
-     - Run pip freeze.
-     - Install requirements.txt
+- Custom buttons for running various pip-related commands
+ - Run pipreqs
+ - Run pip check
+ - Run pur (package updater)
+ - Run pip freeze.
+ - Install requirements.txt
 
-- **Functionality:**
-   - Executes pip-related commands.
-   - Provides tooltips for buttons with additional information.
+- Executes pip-related commands.
+- Provides tooltips for buttons with additional information.
 
 ## Contributing
 
