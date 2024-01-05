@@ -19,7 +19,7 @@ pefile==2023.2.7
 Pillow==9.5.0
 pipreqs==0.4.13
 pur==7.1.0
-pycryptodomex==3.18.0
+pycryptodomex==3.19.1
 pygame==2.5.0
 Pygments==2.15.1
 pyinstaller==5.13.0
